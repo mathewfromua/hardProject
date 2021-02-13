@@ -26,7 +26,7 @@
 
 .leftColumn {
     width: 20%;
-    background: #890000;
+    background-color: #890000;
     height: 400px;
 }
 
@@ -36,7 +36,7 @@
 
 .rightColumn {
     width: 20%;
-    background:#E4DDDD;
+    background-color:#E4DDDD;
 }
 .grey {
     background: #E4DDDD;
