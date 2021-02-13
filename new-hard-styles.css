@@ -1,6 +1,7 @@
 .mainContainer {
     width: 100%;
     background-color: #990909;
+
 }
 
 .header {
@@ -11,12 +12,14 @@
 .imgContainer {
     width: 100%;
     background-color: #000000;
+    
+;
 }
 
 .imgWrapper {
     display: inline-block;
     width: auto;
-    padding: 1.6em;
+    padding: 1.75em;
 }
 .imgWrapper>p {
     color: white;
@@ -35,7 +38,7 @@
 }
 
 .rightColumn {
-    width: 16%;
+    width: 18%;
     background-color: #E4DDDD;
     height: 400px;
 }
@@ -64,8 +67,11 @@
 .title {
     background-color: #BDBDBD;
     text-align: center;
-    font-weight: bold;
+    font-weight: 900;
     margin: 0;
+    padding: 0.2em;
+    font-size: 120%;
+
 }
 
 .hr {
